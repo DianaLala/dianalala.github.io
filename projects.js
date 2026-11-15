@@ -58,6 +58,27 @@ window.PROJECTS = [
     ]
   },
   {
+    id: "harvest",
+    title: "The Harvest Toolkit",
+    short: "Harvest Toolkit",
+    summary: "A gender behaviour-change toolkit that helps farming couples in northern Uganda plan, budget and decide together, and shows the companies that buy their crops why that pays.",
+    client: "Mercy Corps Uganda (BUILD programme), with Mango Tree",
+    year: "2016–2017",
+    place: "Acholi sub-region, Uganda",
+    role: "Co-creation facilitator and designer",
+    paths: ["strategist", "gamemaker"],
+    tags: ["Behaviour change", "Gender", "Gamified learning"],
+    color: "orange",
+    cover: "harvest-cocreation",
+    challenge: "In many farming households, women and young people do most of the farm work while men decide how the money is spent. Disagreements over cash fuel domestic violence and cut harvests, and that also hurts the companies that buy from these farmers.",
+    audience: "Farming couples and their households, the trainers who work with them, and private sector buyers.",
+    approach: "Co-created with farmers, staff and partners, then built as five tools that work together over eight sessions: an infographic that makes the business case to companies, an interactive story where the audience decides what the couple does next, Talking Flags to open difficult conversations at home, the Harvest Game, and a household budgeting tool.",
+    contribution: "Led the co-creation workshop, and designed the toolkit and its instructor's guide.",
+    deliverables: ["Infographic flyer for private sector buyers", "Living Together interactive story", "Talking Flags", "The Harvest Game", "Household management and record-keeping tool", "Instructor's guide with an eight-session training schedule"],
+    outcome: "A complete curriculum on joint decision-making, financial literacy and women's businesses, ready for trainers to run with farmer groups.",
+    gallery: []
+  },
+  {
     id: "spark",
     title: "SPARK social innovation lab",
     short: "SPARK lab",
@@ -149,6 +170,30 @@ window.PROJECTS = [
     gallery: [["nyuki-in", "An inside page of Nyuki showing a city street and a market"]]
   },
   {
+    id: "hrw",
+    title: "Mothers who stand by their children",
+    short: "HRW mothers",
+    summary: "Illustrations for a Human Rights Watch report on Ugandan mothers who openly support their LGBT children under the Anti-Homosexuality Act.",
+    client: "Human Rights Watch",
+    year: "2025",
+    place: "Uganda",
+    role: "Illustrator",
+    paths: ["storyteller"],
+    tags: ["Illustration", "Human rights"],
+    color: "coral",
+    cover: "hrw-mother",
+    challenge: "Under Uganda's Anti-Homosexuality Act, mothers who speak up for their LGBT children face legal and social persecution. Their stories needed to be told with dignity, and with care for the people involved.",
+    audience: "Readers of the report and online feature in Uganda and internationally, including policy makers, journalists and the public.",
+    approach: "A sensitive, human-centred visual approach: everyday scenes at home, the pressure of the law and the news, and moments of solidarity, drawn to show the mothers' strength and dignity as well as their vulnerability.",
+    contribution: "Illustration and visual documentation for the report and its online publication.",
+    deliverables: ["Series of editorial illustrations", "Artwork for print and online publication"],
+    outcome: "Featured in Human Rights Watch's May 2025 report and online publication, helping to build empathy and awareness locally and internationally.",
+    gallery: [
+      ["hrw-police", "Two women hold hands as they face a line of armed police officers"],
+      ["hrw-news", "An older couple at home with a radio, beside a newspaper headline about jail terms"]
+    ]
+  },
+  {
     id: "weaklinks",
     title: "Weak Links",
     short: "Weak Links",
@@ -189,6 +234,32 @@ window.PROJECTS = [
     deliverables: ["Illustrated comic"],
     outcome: "Published by ifa's Martin Roth-Initiative as an introductory guide.",
     gallery: []
+  },
+  {
+    id: "wcw",
+    title: "We Can Work: The Co-creation Year",
+    short: "We Can Work",
+    summary: "A magazine-style report and pattern-based identity that make a multi-country disability-inclusion programme's year of co-creation easy and enjoyable to read.",
+    client: "Light for the World, with the Mastercard Foundation and the African Disability Forum",
+    year: "2024",
+    place: "Multi-country, Africa",
+    role: "Publication designer",
+    paths: ["storyteller"],
+    tags: ["Publication design", "Branding", "Disability inclusion"],
+    color: "mustard",
+    cover: "wcw-cover",
+    challenge: "A year of co-creation across several countries produced a lot of complex information. The programme needed a report people would actually open and read, and a visual identity that felt African, youthful and inclusive.",
+    audience: "Young people with disabilities, programme partners, funders and practitioners working on inclusive employment.",
+    approach: "Magazine-inspired layouts with vibrant colour, dynamic compositions and playful graphic elements, balanced with a clear structure so readers can find their way. The patterns draw on traditional symbols from across West and East Africa.",
+    contribution: "Designed the interactive multi-country report, and created the programme's patterns and branded materials.",
+    deliverables: ["Interactive multi-country co-creation report", "Pattern-based visual identity", "Pull-up banners, merchandise and event materials"],
+    outcome: "A report and visual identity built to work across print, digital platforms, merchandise and events.",
+    gallery: [
+      ["wcw-spread", "Report spread opening with a reader's letter and portrait photography"],
+      ["wcw-spread2", "Report spread introducing the context and barrier analysis"],
+      ["wcw-pattern", "Pattern inspired by traditional West and East African symbols"],
+      ["wcw-banners", "Three We Can Work pull-up banners"]
+    ]
   },
   {
     id: "lookingwithin",
